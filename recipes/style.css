@@ -1,0 +1,28 @@
+* {
+    font-family: Avenir, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card {
+    width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid;
+}
+
+h1 {
+    padding: 10px;
+    background-color: lightcyan;
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+li {
+    font-size: 16px;
+}
+
+img {
+    width: 100%;
+}
